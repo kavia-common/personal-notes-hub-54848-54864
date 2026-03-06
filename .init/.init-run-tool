@@ -1,0 +1,4 @@
+{
+    "command": "npm run dev -- -p <port> -H <host>",
+    "working_directory": "/home/kavia/workspace/code-generation/personal-notes-hub-54848-54864/notes_frontend"
+}
